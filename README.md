@@ -1,6 +1,6 @@
 ## Projects and Labs
 
-### [Project 1]
+### [Project 1](https://jiah-design.github.io/cit281-p1/)
 
 Using the command line interface (CLI) to create a number of folders and displaying the folders in a tree-like structure
 Use the ping command, and practice using the break keyboard sequence to become more familiar with CLI
