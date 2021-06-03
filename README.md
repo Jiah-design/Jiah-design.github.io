@@ -21,7 +21,7 @@ Creating a "coinage" code module that is capable of calculating the total value 
 
 Creating a REST API that works with a "data" source of questions and answers. All codes used to work with the data source are created in a code module, and tested in the code module code using provided testing codes. Node.js REST API is created to handle the GET verb. 
 
-### [Project 5]
+### [Project 5](https://jiah-design.github.io/cit281-p5/)
 
 Creating a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
