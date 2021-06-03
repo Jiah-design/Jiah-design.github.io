@@ -38,7 +38,7 @@ Page will include repos for each of the labs and projects completed in the CIT 2
 Each GitHub Page of the labs and projects provides a brief description of the lab or project, and a screen capture
 Adding links to the organization or user Page to each of the labs and projects
 
-### [Lab 1]
+### [Lab 1](https://jiah-design.github.io/cit281-lab1/)
 
 Practice using software tools such as terminal or shell commands and keyboard shortcuts to execute and produce Node.js server-side JavaScript files
 
