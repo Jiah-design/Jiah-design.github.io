@@ -25,7 +25,7 @@ Creating a REST API that works with a "data" source of questions and answers. Al
 
 Creating a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
-### [Project 6]
+### [Project 6](https://jiah-design.github.io/cit281-p6/)
 
 Using classes to develop a program that will return the perimeter and area of a Shape (triangle, rectangle, square). Creating a Shape class that will serve as a base class for two other classes, a Rectangle class that will inherit from Shape class, and a Triangle class that also will inherit from the Shape class.
 
