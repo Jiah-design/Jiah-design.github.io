@@ -17,7 +17,7 @@ Refactor the JavaScript program from project 1 to practice using git and practic
 
 Creating a "coinage" code module that is capable of calculating the total value of coin objects. Update "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
-### [Project 4]
+### [Project 4](https://jiah-design.github.io/cit281-p4/)
 
 Creating a REST API that works with a "data" source of questions and answers. All codes used to work with the data source are created in a code module, and tested in the code module code using provided testing codes. Node.js REST API is created to handle the GET verb. 
 
