@@ -6,7 +6,7 @@ Using the command line interface (CLI) to create a number of folders and display
 Use the ping command, and practice using the break keyboard sequence to become more familiar with CLI
 Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
-### [Project 2]
+### [Project 2](https://jiah-design.github.io/cit281-p2/)
 
 Using the command line interface (CLI) and Visual Studio Code (VSCode) to create and work with a git repository (repo)
 Refactor the JavaScript program from project 1 to practice using git and practice refactoring
