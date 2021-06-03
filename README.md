@@ -31,7 +31,7 @@ Using classes to develop a program that will return the perimeter and area of a 
 
 The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value. 
 
-### [Project 7]
+### [Project 7](https://jiah-design.github.io/cit281-p7/)
 
 Creating either an organization-level or user-level GitHub Page, and adding content to this Page.
 Page will include repos for each of the labs and projects completed in the CIT 281 course 
