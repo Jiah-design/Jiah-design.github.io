@@ -13,7 +13,7 @@ Refactor the JavaScript program from project 1 to practice using git and practic
 - Create and use a .gitignore file
 - Diff split screen
 
-### [Project 3]
+### [Project 3](https://jiah-design.github.io/cit281-p3/)
 
 Creating a "coinage" code module that is capable of calculating the total value of coin objects. Update "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
