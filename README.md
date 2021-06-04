@@ -62,7 +62,7 @@ Using Postman to test fastify server application with GET and POST and respond w
 
 Creating a digital book library using JavaScript classes and test the Library class by creating a Library instance, adding the Book object and use all of the Library methods to output the count of books in the library, and the books in the library.
 
-### [Lab 7]
+### [Lab 7](https://jiah-design.github.io/cit281-lab7/)
 
 Create GitHub organization for the CIT Minor and using clone to manage respostory in local system then pushing changes back into GitHub
 
