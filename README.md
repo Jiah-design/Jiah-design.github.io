@@ -46,7 +46,7 @@ Practice using software tools such as terminal or shell commands and keyboard sh
 
 Using CLI commands for directory, file manipulation, and git commands (establishing new git repository, initializing JavaScript files, and tracking files).
 
-### [Lab 3]
+### [Lab 3](https://jiah-design.github.io/cit281-lab3/)
 
 Practice refactoring JavaScript code to use more modern syntaxs such as destructuring objects, converting normal functions into arrow function expressions and using for..in and for..of syntax with objects and arrays.
 
