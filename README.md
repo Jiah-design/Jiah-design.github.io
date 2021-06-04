@@ -58,7 +58,7 @@ Practice using Fastify to create web servers in VSCode.
 
 Using Postman to test fastify server application with GET and POST and respond with JSON
 
-### [Lab 6]
+### [Lab 6](https://jiah-design.github.io/cit281-lab6/)
 
 Creating a digital book library using JavaScript classes and test the Library class by creating a Library instance, adding the Book object and use all of the Library methods to output the count of books in the library, and the books in the library.
 
