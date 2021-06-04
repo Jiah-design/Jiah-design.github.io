@@ -1,5 +1,7 @@
 ## Projects and Labs
 
+Click on the project title to be directed to a more detailed page on the specific project or lab.
+
 ### [Project 1](https://jiah-design.github.io/cit281-p1/)
 
 Using the command line interface (CLI) to create a number of folders and displaying the folders in a tree-like structure
@@ -40,7 +42,7 @@ Adding links to the organization or user Page to each of the labs and projects
 
 ### [Lab 1](https://jiah-design.github.io/cit281-lab1/)
 
-Practice using software tools such as terminal or shell commands and keyboard shortcuts to execute and produce Node.js server-side JavaScript files
+Practice using software tools such as terminal or shell commands and keyboard shortcuts to execute and produce Node.js server-side JavaScript files.
 
 ### [Lab 2](https://jiah-design.github.io/cit281-lab2/)
 
