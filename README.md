@@ -50,7 +50,7 @@ Using CLI commands for directory, file manipulation, and git commands (establish
 
 Practice refactoring JavaScript code to use more modern syntaxs such as destructuring objects, converting normal functions into arrow function expressions and using for..in and for..of syntax with objects and arrays.
 
-### [Lab 4]
+### [Lab 4](https://jiah-design.github.io/cit281-lab4/)
 
 Practice using Fastify to create web servers in VSCode.
 
