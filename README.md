@@ -70,7 +70,7 @@ Create GitHub organization for the CIT Minor and using clone to manage respostor
 
 Using fastify and node-fetch package to fetch JSONPlaceholder data
 
-### [Lab 9]
+### [Lab 9](https://jiah-design.github.io/cit281-lab9/)
 
 Working through GitHub Learning Lab "Create a released based workflow" course.
 
