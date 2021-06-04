@@ -66,7 +66,7 @@ Creating a digital book library using JavaScript classes and test the Library cl
 
 Create GitHub organization for the CIT Minor and using clone to manage respostory in local system then pushing changes back into GitHub
 
-### [Lab 8]
+### [Lab 8](https://jiah-design.github.io/cit281-lab8/)
 
 Using fastify and node-fetch package to fetch JSONPlaceholder data
 
