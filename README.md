@@ -42,7 +42,7 @@ Adding links to the organization or user Page to each of the labs and projects
 
 Practice using software tools such as terminal or shell commands and keyboard shortcuts to execute and produce Node.js server-side JavaScript files
 
-### [Lab 2]
+### [Lab 2](https://jiah-design.github.io/cit281-lab2/)
 
 Using CLI commands for directory, file manipulation, and git commands (establishing new git repository, initializing JavaScript files, and tracking files).
 
