@@ -54,7 +54,7 @@ Practice refactoring JavaScript code to use more modern syntaxs such as destruct
 
 Practice using Fastify to create web servers in VSCode.
 
-### [Lab 5]
+### [Lab 5](https://jiah-design.github.io/cit281-lab5/)
 
 Using Postman to test fastify server application with GET and POST and respond with JSON
 
